@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CSMB / APCSP"
+title                    : "CSMB / GIS"
 title_separator          : "-"
-name                     : &name "Alex Schenk"
-description              : &description "This is a sample student portfoio for AP Computer Science Principles"
+name                     : &name "Baridakara Waate"
+description              : &description "This is a sample student portfoio for Geographical Information System"
 url                      : https://bwaate.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bwaate/bwaate.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander Schenk"
+  name             : "Baridakara Waate"
   avatar           : "Gerald_G_Rubber_Duck.png"
-  bio              : "This is a sample portfolio for AP Computer Science Principles. In AP Computer Science Principles, students learn how to creatively address real-world issues with the tools and processes of computer science."
+  bio              : "This is a sample portfolio for Geographical Information System. In AP Computer Science Principles, students learn how to creatively address real-world issues with the tools and processes of computer science."
   location         : "St. Louis, MO"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
